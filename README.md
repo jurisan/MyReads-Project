@@ -5,7 +5,7 @@ A bookshelf app that allows user to select and categorize books as you have read
 
 - npm
 
-How to Run
+## How to Run
 
 1.Download or Clone the Repository.
 2.Run npm install to install the project dependencies.
